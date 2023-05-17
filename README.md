@@ -1,2 +1,2 @@
 # LangChain-Tutorial
- Basic Tutorial on how to use Langchain & PineCone
+Tutorial on how to use Langchain & PineCone
